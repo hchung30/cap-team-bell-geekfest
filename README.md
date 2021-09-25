@@ -1,4 +1,4 @@
-# CAP TEAM - BELL GEEKFEST
+# CAP TEAM - Who Wants To Be a Green-aire
 
 Green-aire is an application to bring the awareness of natural environment to people and encourage them to take actions and make changes to improve environment on daily basis
 
