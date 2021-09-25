@@ -1,6 +1,6 @@
 # CAP TEAM - BELL GEEKFEST
 
-Green-aire is an application to bring the awareness of natural environment to people and encourage people to take actions and make changes to improve environment on daily basis
+Green-aire is an application to bring the awareness of natural environment to people and encourage them to take actions and make changes to improve environment on daily basis
 
 ## Installation
 
@@ -11,7 +11,7 @@ TO INSTALL
 npm install
 ```
 
-TO RUN: 
+TO RUN
 ```bash
 node app.js
 ```
