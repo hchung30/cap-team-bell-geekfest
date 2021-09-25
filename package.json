@@ -1,0 +1,14 @@
+{
+  "name": "bell-geek-fest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cap team",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

@@ -1,0 +1,52 @@
+.aqiview,
+#keyword {
+  align-content: center;
+  text-align: center;
+}
+#desc,
+#keyword,
+.small {
+  font-size: 2rem;
+  margin: 0;
+}
+
+#keyword {
+  background: none;
+  color: white;
+}
+#keyword:focus,
+#keyword:visited,
+#keyword:hover {
+  outline: none;
+  box-shadow: none;
+  border-color: #fff;
+}
+
+#keyword::placeholder {
+  color: #fff;
+}
+
+body {
+  background-color: #3598db;
+  color: #fff;
+  font-size: 3rem;
+  height: 100vh;
+}
+
+h2 {
+  font-size: 3rem;
+  font-weight: 700;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+#quality {
+  padding: 0.5rem;
+  border-radius: 40px;
+  display: block;
+  text-align: center;
+}
